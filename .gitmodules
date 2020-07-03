@@ -1,0 +1,6 @@
+[submodule "jhu"]
+	path = jhu
+	url = /home/philip-stuckey/Data/COVID-19/
+[submodule "nytymes"]
+	path = nytymes
+	url = /home/philip-stuckey/Data/COVD19/
