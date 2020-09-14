@@ -4,3 +4,6 @@
 [submodule "nytymes"]
 	path = nytymes
 	url = /home/philip-stuckey/Data/COVD19/
+[submodule "COVID-19"]
+	path = COVID-19
+	url = https://github.com/CSSEGISandData/COVID-19.git
